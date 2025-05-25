@@ -1,3 +1,4 @@
+
 <h1 align="center">Heyyy 👋, I'm Prithvi Singh Dangas</h1>
 <h3 align="center">Aspiring Machine Learning & Computer Vision Engineer</h3>
 
@@ -8,8 +9,8 @@
 ---
 
 - 🔭 I’m currently working on **sensor fusion, 3D object detection & NLP pipelines**
-- 🌱 I’m learning advanced Lidar modeling and real-time AI deployment
-- 💬 Ask me about Python, Deep Learning, Sensor Fusion, NLP
+- 📘 My research focuses on **LiDAR-based 3D object detection under adverse weather**, using fog simulation and physics-based augmentation techniques
+- 💬 Ask me about Python, Deep Learning, Sensor Fusion, NLP, Time Series, Model Evaluation
 - 📫 How to reach me: **pdangas51@gmail.com**
 
 ---
@@ -28,13 +29,17 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white" />
   <img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
 </p>
 
 ---
