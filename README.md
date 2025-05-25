@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 align="center">Heyyy 👋, I'm Prithvi Singh Dangas</h1>
+<h3 align="center">Aspiring Machine Learning & Computer Vision Engineer</h3>
 
-<!--
-**PrithviSingh0112/PrithviSingh0112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PrithviSingh0112&label=Profile%20views&color=0e75b6&style=flat" alt="PrithviSingh0112" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on **sensor fusion, 3D object detection & NLP pipelines**
+- 🌱 I’m learning advanced Lidar modeling and real-time AI deployment
+- 💬 Ask me about Python, Deep Learning, Sensor Fusion, NLP
+- 📫 How to reach me: **pdangas51@gmail.com**
+
+---
+
+### 📲 Connect with me:
+
+<p align="left">
+  <a href="https://linkedin.com/in/prithvi-singh-5615101bb" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square" alt="linkedin" /></a>
+  <a href="https://github.com/PrithviSingh0112" target="blank"><img align="center" src="https://img.shields.io/badge/-GitHub-333?logo=github&style=flat-square" alt="github" /></a>
+</p>
+
+---
+
+### 🛠️ Languages and Tools:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=PrithviSingh0112&show_icons=true&theme=radical" alt="stats" />
+</p>
