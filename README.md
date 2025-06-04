@@ -1,9 +1,7 @@
 # Hi, I'm Prithvi Singh Dangas 👋
 
 **Aspiring Data Science & Machine Learning Engineer**  
- <p align="center">
-  <img src="https://github.com/PrithviSingh0112/PrithviSingh0112/blob/main/profile.jpg?raw=true" width="150" style="border-radius: 50%" />
-</p>
+![Profile](https://avatars.githubusercontent.com/<your-username>?size=150)
 
 
 ---
