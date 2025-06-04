@@ -1,51 +1,42 @@
+# Hi, I'm Prithvi Singh Dangas 👋
 
-<h1 align="center">Heyyy 👋, I'm Prithvi Singh Dangas</h1>
-<h3 align="center">Aspiring Data Science & Machine Learning Engineer</h3>
+**Aspiring Data Science & Machine Learning Engineer**  
+Former Research Intern @<Company> | <University> '24  
 
+---
+
+### 🔍 About Me  
+I'm a passionate ML engineer with expertise in sensor fusion and 3D perception systems. My research focuses on **LiDAR-based 3D object detection under adverse weather**, combining fog simulation with physics-based augmentation techniques. I thrive at the intersection of deep learning and sensor systems.
+
+(Yes! I love transforming raw sensor data into intelligent predictions more than tweaking hyperparameters 😄)
+
+---
+
+### 🛠️ Tech I Work With  
+
+| **Languages**       | **ML Frameworks**    | **Tools**          |
+|---------------------|----------------------|--------------------|
+| Python, C++, SQL    | PyTorch, TensorFlow  | OpenCV, ROS        |
+| LaTeX               | scikit-learn         | Git, Docker        |
+
+---
+
+### 📫 Reach Out  
+[![Email](https://img.shields.io/badge/pdangas51@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pdangas51@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/Prithvi_Singh-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/prithvi-singh-5615101bb)  
+[![GitHub](https://img.shields.io/badge/PrithviSingh0112-181717?style=flat&logo=github&logoColor=white)](https://github.com/PrithviSingh0112)  
+
+---
+
+### 🔥 Current Projects  
+- **Sensor Fusion Pipelines**: Developing multimodal 3D detection systems  
+- **NLP for Sensor Data**: Building text-to-query systems for LiDAR databases  
+- **Adverse Weather Simulation**: Physics-based fog augmentation for robust models  
+
+---
+
+### 📊 GitHub Pulse  
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PrithviSingh0112&label=Profile%20views&color=0e75b6&style=flat" alt="PrithviSingh0112" />
-</p>
-
----
-
-- 🔭 I’m currently working on **sensor fusion, 3D object detection & NLP pipelines**
-- 📘 My research focuses on **LiDAR-based 3D object detection under adverse weather**, using fog simulation and physics-based augmentation techniques
-- 💬 Ask me about Python, Deep Learning, Sensor Fusion, NLP, Time Series, Model Evaluation
-- 📫 How to reach me: **pdangas51@gmail.com**
-
----
-
-### 📲 Connect with me:
-
-<p align="left">
-  <a href="https://linkedin.com/in/prithvi-singh-5615101bb" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square" alt="linkedin" /></a>
-  <a href="https://github.com/PrithviSingh0112" target="blank"><img align="center" src="https://img.shields.io/badge/-GitHub-333?logo=github&style=flat-square" alt="github" /></a>
-</p>
-
----
-
-### 🛠️ Languages and Tools:
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white" />
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrithviSingh0112&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PrithviSingh0112&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrithviSingh0112&layout=compact&theme=radical" width="40%" /> 
 </p>
