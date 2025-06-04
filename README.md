@@ -5,7 +5,6 @@
 <p align="center">
   <img src="https://avatars.githubusercontent.com/PrithviSingh0112?size=500" style="border-radius: 15px; width: 160px; height: 160px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3); border: 3px solid #50FA7B;" />
 </p>
-
 ---
 
 ## 🌍 Who Am I?
