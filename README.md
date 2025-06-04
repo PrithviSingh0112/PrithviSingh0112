@@ -15,54 +15,104 @@
 
 ---
 
-## 🧠 **About Me**
+## 🌍 Who Am I?
 
-```python
-class MLResearcher:
-    def __init__(self):
-        self.name = "Prithvi Singh Dangas"
-        self.role = "ML Engineer @ Sensor Fusion"
-        self.skills = {
-            "Languages": ["Python", "C++", "SQL"],
-            "ML Stack": ["PyTorch", "TensorFlow", "OpenCV"],
-            "Specialties": ["3D Perception", "LiDAR Processing", "Adverse Weather ML"]
-        }
-    
-    def current_focus(self):
-        return "Developing robust 3D object detection models for autonomous systems"
-    
-    def motto(self):
-        return "Turning sensor noise into intelligent decisions"
+I’m a driven ML engineer with a passion for **sensor fusion**, **3D perception**, and building intelligent systems that thrive in real-world challenges. My expertise lies in **LiDAR-based 3D object detection** under adverse conditions, where I blend physics-based simulations with deep learning to push the boundaries of robust perception. I’m obsessed with transforming complex sensor data into actionable insights, crafting solutions that are both innovative and practical.
 
-me = MLResearcher()
-🔭 Currently working on physics-based LiDAR simulation for adverse weather
+🎯 *“From raw data to real-world impact—my code tells the story.”*
 
-🌱 Learning edge deployment (TensorRT, ONNX, Quantization)
+---
 
-🏆 Thesis Grade: A+ for 3D object detection research
+## 🎓 Education
 
-⚡ Fun fact: Competed in national badminton tournaments 🏸
+**ABV - Indian Institute of Information Technology and Management (IIITM), Gwalior**\
+**Integrated B.Tech + M.Tech in Information Technology** | *Expected 2025*
 
-🛠️ Technical Toolkit
-<div align="center">
-Core Technologies
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-Tools & Platforms
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" /> <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" /></div>
-🚀 Featured Projects
-<table> <tr> <td width="50%" valign="top"> <h3 align="center">🌫️ Physics-Based LiDAR Simulation</h3> <ul> <li>Implemented <b>Mie scattering</b> for fog simulation</li> <li>Improved detection robustness by <b>22%</b> in adverse weather</li> <li>Tech: PyTorch, Open3D, KITTI</li> </ul> <p align="center"> <a href="#"> <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python" /> <img src="https://img.shields.io/badge/Demo-Live-success?style=flat" /> </a> </p> </td> <td width="50%" valign="top"> <h3 align="center">🚨 Real-time Disaster Detection</h3> <ul> <li><b>87% F1-score</b> with attention-LSTM</li> <li>Deployed as Flask API with <b>92% uptime</b></li> <li>Tech: TensorFlow, NLP, Heroku</li> </ul> <p align="center"> <a href="#"> <img src="https://img.shields.io/badge/Paper-PDF-red?style=flat&logo=adobe-acrobat-reader" /> <img src="https://img.shields.io/badge/Repo-GitHub-blue?style=flat&logo=github" /> </a> </p> </td> </tr> </table>
-📊 GitHub Analytics
-<div align="center">
-GitHub Stats	Top Languages
-GitHub Streak
+- Relevant Coursework: Machine Learning, Deep Learning, Computer Vision, Data Structures, Operating Systems, DBMS
+- Thesis: *Physically-Grounded 3D Object Detection in Adverse Weather Using LiDAR* (A+ Grade)
 
-</div>
-<div align="center">
-📫 Let's Collaborate!
-Website
-Schedule Meeting
+**Emmanuel Mission Senior Secondary School**
 
-<img src="https://komarev.com/ghpvc/?username=PrithviSingh0112&label=Profile+Views&color=blueviolet&style=flat" alt="Profile views" />
-Footer
+- **12th Standard**: 76% | *2019*
+- **10th Standard**: 91% | *2017*
 
-</div> ```
+---
+
+## 🛠️ Tech Arsenal
+
+| **Languages** 🖥️ | **ML Frameworks** 🧠 | **Tools & Libraries** ⚙️ |
+| --- | --- | --- |
+| 🐍 Python | 🔥 PyTorch | 📷 OpenCV |
+| 💻 C++ | 🧮 TensorFlow | ⚡ CUDA |
+| 🌐 JavaScript | 🤖 scikit-learn | 🐙 Git |
+| 🗄️ SQL |  | 🧮 MATLAB |
+| 📜 LaTeX |  | 📊 Pandas, NumPy |
+| 🌈 HTML/CSS |  | 📈 Matplotlib, Seaborn |
+
+**Core Concepts**: Supervised/Unsupervised Learning, CNNs, RNNs, LSTMs, Object Detection, LiDAR Processing, Data Augmentation
+
+---
+
+## 📬 Let’s Connect
+
+---
+
+## 🌟 Featured Projects
+
+### 📝 Text Analysis Pipeline for Sentiment & Readability Scoring
+
+*2025 | Python, NLTK, TextBlob, Pandas, BeautifulSoup*
+
+- Built a robust NLP pipeline to scrape and analyze over **1,000 web articles**, delivering insights on readability and sentiment.
+- Computed advanced metrics like **fog index** and **sentiment polarity** for tone profiling.
+- Automated **Excel report generation** with error handling for scalable deployments.
+
+### 🚨 Crisis Tweet Classification Using LSTM Networks
+
+*2024 | Python, TensorFlow, Keras, NLP, LSTM*
+
+- Developed an LSTM model with **87% F1-score** for classifying disaster tweets.
+- Optimized preprocessing with custom tokenizers and early stopping for efficient training.
+- Enhanced interpretability using **embedding visualization** and **temporal attention analysis**.
+
+### 📊 Customer Segmentation & Sales Insights Analysis
+
+*2023 | Python, Pandas, Seaborn, Matplotlib, NumPy*
+
+- Applied **RFM and KMeans clustering** to segment **10,000+ customers**, improving marketing efficiency by **25%**.
+- Identified high-LTV customer segments for targeted campaigns.
+- Delivered **interactive visual dashboards** for executive decision-making.
+
+### 🌫️ Physically-Grounded 3D Object Detection in Adverse Weather
+
+*2024 | PyTorch, TensorFlow, PV-RCNN, Mie Theory, KITTI Dataset*
+
+- Simulated realistic fog effects using **Mie scattering** and **Generalized Gamma distributions** for LiDAR data augmentation.
+- Evaluated models like **PV-RCNN** and **SECOND**, revealing mAP degradation in adverse conditions.
+- Published findings in M.Tech research thesis, earning a perfect **A+ grade**.
+
+---
+
+## 🏆 Achievements
+
+- 🥇 Scored **A+** in M.Tech Research Thesis on 3D Object Detection.
+- 📈 Ranked in **top 20%** in LeetCode Weekly Contests (Rating: 1520).
+- 💻 Solved **300+ algorithm problems** on LeetCode, GFG, and CodeChef.
+- 🎯 Achieved **99th percentile** in JEE Main 2020, showcasing strong analytical skills.
+- 🏸 Won **Gold and Bronze medals** in Inter-IIIT Badminton Tournaments.
+
+---
+
+## 📊 GitHub Spotlight
+
+![](https://github-readme-stats.vercel.app/api?username=PrithviSingh0112&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&title_color=FF79C6&text_color=8BE9FD)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PrithviSingh0112&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=FF79C6&text_color=8BE9FD)
+
+---
+
+## ⚡ Fun Fact
+
+When I’m not debugging LiDAR point clouds or fine-tuning neural networks, you’ll find me smashing shots on the badminton court or diving into the latest AI research papers over a cup of coffee. ☕
+
+![](https://img.shields.io/badge/Crafted%20with-💻%20&%20💖-FF79C6?style=flat-square)
