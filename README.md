@@ -31,10 +31,7 @@ I’m a driven ML engineer with a passion for **sensor fusion**, **3D perception
 - Relevant Coursework: Machine Learning, Deep Learning, Computer Vision, Data Structures, Operating Systems, DBMS
 - Thesis: *Physically-Grounded 3D Object Detection in Adverse Weather Using LiDAR* (A+ Grade)
 
-**Emmanuel Mission Senior Secondary School**
 
-- **12th Standard**: 76% | *2019*
-- **10th Standard**: 91% | *2017*
 
 ---
 
