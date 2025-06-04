@@ -1,7 +1,3 @@
-# 🚀 Prithvi Singh Dangas
-
-**Data Science & Machine Learning Engineer | Innovator in Sensor Fusion & 3D Perception**
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=50FA7B&center=true&vCenter=true&width=600&lines=Prithvi+Singh+Dangas;Machine+Learning+Engineer;3D+Perception+Specialist;Sensor+Fusion+Expert" alt="Animated Title" />
 </div>
@@ -17,65 +13,56 @@
 
 </div>
 
-## 🎓 Education
-
-**ABV - Indian Institute of Information Technology and Management (IIITM), Gwalior**  
-**Integrated B.Tech + M.Tech in Information Technology** | *Expected 2025*  
-- **Thesis:** *Physically-Grounded 3D Object Detection in Adverse Weather Using LiDAR* (A Grade)  
-
 ---
 
-## 🛠️ Tech Stack
+## 🧠 **About Me**
 
-### **Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+```python
+class MLResearcher:
+    def __init__(self):
+        self.name = "Prithvi Singh Dangas"
+        self.role = "ML Engineer @ Sensor Fusion"
+        self.skills = {
+            "Languages": ["Python", "C++", "SQL"],
+            "ML Stack": ["PyTorch", "TensorFlow", "OpenCV"],
+            "Specialties": ["3D Perception", "LiDAR Processing", "Adverse Weather ML"]
+        }
+    
+    def current_focus(self):
+        return "Developing robust 3D object detection models for autonomous systems"
+    
+    def motto(self):
+        return "Turning sensor noise into intelligent decisions"
 
-### **ML & Frameworks**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+me = MLResearcher()
+🔭 Currently working on physics-based LiDAR simulation for adverse weather
 
-### **Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
+🌱 Learning edge deployment (TensorRT, ONNX, Quantization)
 
----
+🏆 Thesis Grade: A+ for 3D object detection research
 
-## 🌟 Featured Projects
+⚡ Fun fact: Competed in national badminton tournaments 🏸
 
-### 🔍 **3D Object Detection in Adverse Weather**  
-- Simulated fog effects using **Mie scattering** for LiDAR augmentation.  
-- Achieved **A** thesis grade with PV-RCNN evaluations on KITTI dataset.  
-
-### 🚨 **Disaster Tweet Classification (LSTM)**  
-- **87% F1-score** with temporal attention visualization.  
-
-### 📊 **Customer Segmentation (RFM + KMeans)**  
-- Boosted marketing efficiency by **25%** via clustering.  
-
----
-
-## 📊 GitHub Stats
-
+🛠️ Technical Toolkit
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrithviSingh0112&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrithviSingh0112&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+Core Technologies
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+Tools & Platforms
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" /> <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" /></div>
+🚀 Featured Projects
+<table> <tr> <td width="50%" valign="top"> <h3 align="center">🌫️ Physics-Based LiDAR Simulation</h3> <ul> <li>Implemented <b>Mie scattering</b> for fog simulation</li> <li>Improved detection robustness by <b>22%</b> in adverse weather</li> <li>Tech: PyTorch, Open3D, KITTI</li> </ul> <p align="center"> <a href="#"> <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python" /> <img src="https://img.shields.io/badge/Demo-Live-success?style=flat" /> </a> </p> </td> <td width="50%" valign="top"> <h3 align="center">🚨 Real-time Disaster Detection</h3> <ul> <li><b>87% F1-score</b> with attention-LSTM</li> <li>Deployed as Flask API with <b>92% uptime</b></li> <li>Tech: TensorFlow, NLP, Heroku</li> </ul> <p align="center"> <a href="#"> <img src="https://img.shields.io/badge/Paper-PDF-red?style=flat&logo=adobe-acrobat-reader" /> <img src="https://img.shields.io/badge/Repo-GitHub-blue?style=flat&logo=github" /> </a> </p> </td> </tr> </table>
+📊 GitHub Analytics
+<div align="center">
+GitHub Stats	Top Languages
+GitHub Streak
+
 </div>
+<div align="center">
+📫 Let's Collaborate!
+Website
+Schedule Meeting
 
----
+<img src="https://komarev.com/ghpvc/?username=PrithviSingh0112&label=Profile+Views&color=blueviolet&style=flat" alt="Profile views" />
+Footer
 
-## 📬 Let’s Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](Your_LinkedIn_URL)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)  
-
----
-
-## ⚡ Fun Fact  
-When not debugging neural networks, I’m either on the badminton court 🏸 or brewing coffee ☕ for my next AI deep dive!  
-
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=PrithviSingh0112&label=Profile%20Views&color=FF79C6&style=flat" alt="Profile Views" />
-</div>
+</div> ```
