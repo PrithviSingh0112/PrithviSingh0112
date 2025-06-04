@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=50FA7B&center=true&vCenter=true&width=600&lines=Prithvi+Singh+Dangas;Machine+Learning+Engineer;Data+Science;Deep+Learning;Sensor+Fusion" alt="Animated Title" />
+  <img src="https://readme-typing-svg.demolab.com?font=FirACode&weight=600&size=28&duration=3000&pause=500&color=50FA7B&center=true&vCenter=true&width=600&lines=Prithvi+Singh+Dangas;Machine+Learning+Engineer;DatAScience;Deep+Learning;Sensor+Fusion" alt="Animated Title" />
 </div>
 
 <div align="center">
@@ -29,7 +29,7 @@ I’m a driven ML engineer with a passion for **sensor fusion**, **3D perception
 **Integrated B.Tech + M.Tech in Information Technology** | *Expected 2025*
 
 - Relevant Coursework: Machine Learning, Deep Learning, Computer Vision, Data Structures, Operating Systems, DBMS
-- Thesis: *Physically-Grounded 3D Object Detection in Adverse Weather Using LiDAR* (A+ Grade)
+- Thesis: *Physically-Grounded 3D Object Detection in Adverse Weather Using LiDAR* (A Grade)
 
 
 
@@ -86,13 +86,13 @@ I’m a driven ML engineer with a passion for **sensor fusion**, **3D perception
 
 - Simulated realistic fog effects using **Mie scattering** and **Generalized Gamma distributions** for LiDAR data augmentation.
 - Evaluated models like **PV-RCNN** and **SECOND**, revealing mAP degradation in adverse conditions.
-- Published findings in M.Tech research thesis, earning a perfect **A+ grade**.
+- Published findings in M.Tech research thesis, earning a perfect **A grade**.
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 Scored **A+** in M.Tech Research Thesis on 3D Object Detection.
+- 🥇 Scored **A** in M.Tech Research Thesis on 3D Object Detection.
 - 📈 Ranked in **top 20%** in LeetCode Weekly Contests (Rating: 1520).
 - 💻 Solved **300+ algorithm problems** on LeetCode, GFG, and CodeChef.
 - 🎯 Achieved **99th percentile** in JEE Main 2020, showcasing strong analytical skills.
