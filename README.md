@@ -1,7 +1,10 @@
 # Hi, I'm Prithvi Singh Dangas 👋
 
 **Aspiring Data Science & Machine Learning Engineer**  
-Former Research Intern @<Company> | <University> '24  
+ <p align="center">
+  <img src="https://github.com/PrithviSingh0112/PrithviSingh0112/blob/main/profile.jpg?raw=true" width="150" style="border-radius: 50%" />
+</p>
+
 
 ---
 
@@ -16,8 +19,9 @@ I'm a passionate ML engineer with expertise in sensor fusion and 3D perception s
 
 | **Languages**       | **ML Frameworks**    | **Tools**          |
 |---------------------|----------------------|--------------------|
-| Python, C++, SQL    | PyTorch, TensorFlow  | OpenCV, ROS        |
-| LaTeX               | scikit-learn         | Git, Docker        |
+| Python, C++, SQL    | PyTorch, TensorFlow  | OpenCV,CUDA        |
+| LaTeX               | scikit-learn         | Git, MATLAB,       |
+                                             | Excel              |
 
 ---
 
