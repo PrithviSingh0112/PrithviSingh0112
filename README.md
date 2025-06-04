@@ -3,18 +3,19 @@
 **Data Science & Machine Learning Engineer | Innovator in Sensor Fusion & 3D Perception**
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/PrithviSingh0112" alt="Profile Avatar" style="border-radius: 50%; width: 160px; height: 160px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); border: 3px solid #50FA7B; object-fit: cover;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=50FA7B&center=true&vCenter=true&width=600&lines=Prithvi+Singh+Dangas;Machine+Learning+Engineer;3D+Perception+Specialist;Sensor+Fusion+Expert" alt="Animated Title" />
 </div>
 
----
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prithvi@email.com)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
 
-## 🌍 Who Am I?
+  <img src="https://avatars.githubusercontent.com/PrithviSingh0112" width="220" style="border-radius: 50%; border: 4px solid #50FA7B; box-shadow: 0 0 20px rgba(80, 250, 123, 0.4); padding: 0.2rem; margin: 1.5rem 0;"/>
 
-I’m a passionate ML engineer specializing in **sensor fusion**, **3D perception**, and building robust AI systems. My work focuses on **LiDAR-based 3D object detection** in adverse conditions, blending physics-based simulations with deep learning to solve real-world challenges.
-
-🎯 *“Transforming raw sensor data into intelligent decisions—one algorithm at a time.”*
-
----
+</div>
 
 ## 🎓 Education
 
