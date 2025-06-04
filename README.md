@@ -95,7 +95,6 @@ I’m a driven ML engineer with a passion for **sensor fusion**, **3D perception
 - 🥇 Scored **A** in M.Tech Research Thesis on 3D Object Detection.
 - 📈 Ranked in **top 20%** in LeetCode Weekly Contests (Rating: 1520).
 - 💻 Solved **300+ algorithm problems** on LeetCode, GFG, and CodeChef.
-- 🎯 Achieved **99th percentile** in JEE Main 2020, showcasing strong analytical skills.
 - 🏸 Won **Gold and Bronze medals** in Inter-IIIT Badminton Tournaments.
 
 ---
