@@ -48,7 +48,6 @@ I’m a driven ML engineer with a passion for **sensor fusion**, **3D perception
 | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) |  | ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-2E77BC?logo=python&logoColor=white) |
 |  |  | ![ChatGPT](https://img.shields.io/badge/ChatGPT-OpenAI-00A67E?logo=openai&logoColor=white) |
 
-| |  | ![ChatGPT](https://img.shields.io/badge/ChatGPT-OpenAI-green?logo=openai&logoColor=white) |
 
 
 **Core Concepts**: Supervised/Unsupervised Learning, CNNs, RNNs, LSTMs, Object Detection, LiDAR Processing, Data Augmentation
