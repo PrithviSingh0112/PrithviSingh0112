@@ -35,16 +35,19 @@ I’m a driven ML engineer with a passion for **sensor fusion**, **3D perception
 
 ---
 
+
 ## 🛠️ Tech Arsenal
 
 | **Languages** 🖥️ | **ML Frameworks** 🧠 | **Tools & Libraries** ⚙️ |
 | --- | --- | --- |
-| 🐍 Python | 🔥 PyTorch | 📷 OpenCV |
-| 💻 C++ | 🧮 TensorFlow | ⚡ CUDA |
-| 🌐 JavaScript | 🤖 scikit-learn | 🐙 Git |
-| 🗄️ SQL |  | 🧮 MATLAB |
-| 📜 LaTeX |  | 📊 Pandas, NumPy |
-| 🌈 HTML/CSS |  | 📈 Matplotlib, Seaborn |
+| ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white) |
+| ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2b%2b&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) | ![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) |
+| ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white) |  | ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white) |
+| ![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white) |  | ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) |  | ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-2E77BC?logo=python&logoColor=white) |
+|  |  | ![ChatGPT](https://img.shields.io/badge/ChatGPT-OpenAI-00A67E?logo=openai&logoColor=white) |
+
 | |  | ![ChatGPT](https://img.shields.io/badge/ChatGPT-OpenAI-green?logo=openai&logoColor=white) |
 
 
