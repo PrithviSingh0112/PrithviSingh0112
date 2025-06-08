@@ -45,6 +45,8 @@ I’m a driven ML engineer with a passion for **sensor fusion**, **3D perception
 | 🗄️ SQL |  | 🧮 MATLAB |
 | 📜 LaTeX |  | 📊 Pandas, NumPy |
 | 🌈 HTML/CSS |  | 📈 Matplotlib, Seaborn |
+| |  | ![ChatGPT](https://img.shields.io/badge/ChatGPT-OpenAI-green?logo=openai&logoColor=white) |
+
 
 **Core Concepts**: Supervised/Unsupervised Learning, CNNs, RNNs, LSTMs, Object Detection, LiDAR Processing, Data Augmentation
 
