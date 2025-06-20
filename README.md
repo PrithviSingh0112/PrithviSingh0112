@@ -17,7 +17,7 @@
 
 ## 🌍 Who Am I?
 
-I’m a driven ML engineer with a passion for **sensor fusion**, **3D perception**, and building intelligent systems that thrive in real-world challenges. My expertise lies in **LiDAR-based 3D object detection** under adverse conditions, where I blend physics-based simulations with deep learning to push the boundaries of robust perception. I’m obsessed with transforming complex sensor data into actionable insights, crafting solutions that are both innovative and practical.
+As a recent Integrated Postgraduate (B.Tech + M.Tech) in Information Technology from ABV-IIITM Gwalior, I aspire to contribute to cutting-edge AI and robotics systems that solve real-world problems. With hands-on experience in 3D object detection, sensor fusion, and deep learning pipelines, I aim to join a dynamic team where I can apply my technical expertise, research mindset, and collaborative skills to build scalable, intelligent solutions that drive innovation and impact.
 
 🎯 *“From raw data to real-world impact—my code tells the story.”*
 
